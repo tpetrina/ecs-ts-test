@@ -1,0 +1,29 @@
+{
+  "name": "ecs-ts-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpetrina/ecs-ts-test.git"
+  },
+  "keywords": [
+    "ecs",
+    "TypeScript"
+  ],
+  "author": "Toni Petrina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpetrina/ecs-ts-test/issues"
+  },
+  "homepage": "https://github.com/tpetrina/ecs-ts-test#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
